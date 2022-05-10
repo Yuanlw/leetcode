@@ -7,6 +7,8 @@ import java.util.Set;
 /**
  * Given an integer array nums, return true if any value appears at least twice in the array, and return false if every
  * element is distinct.
+ * <p>
+ * 解题思路总结： 熟悉数组、Hash相关的特性是解决数组问题的关键
  *
  * @Author yuanlw
  **/
