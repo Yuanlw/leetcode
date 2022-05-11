@@ -21,7 +21,11 @@ import java.util.Map;
 public class IsAnagram {
 
     /**
-     * 1.先判断两个字符长度 2.利用map 把字符，数量存储 3.借助 map特性
+     * 1.先判断两个字符长度
+     * <p>
+     * 2.利用map 把字符，数量存储
+     * <p>
+     * 3.借助 map特性
      * <p>
      * 时间复杂度 相对于其他算法 比较差
      *
