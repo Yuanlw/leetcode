@@ -53,7 +53,9 @@ public class IsAnagram {
     }
 
     /**
-     * 思路：字符排序，相比 性能最好
+     * 思路：字符排序，相比
+     * <p>
+     * 性能最好
      *
      * @param s
      * @param t
@@ -72,7 +74,11 @@ public class IsAnagram {
     }
 
     /**
-     * 思路：利用hash 26个字母 s加 t减 类似于第一种 这也是一种比较直观的算法 仅次于 最好的
+     * 思路：利用hash 26个字母 s加 t减
+     * <p>
+     * 类似于第一种 这也是一种比较直观的算法
+     * <p>
+     * 仅次于 最好的
      *
      * @param s
      * @param t
